@@ -53,6 +53,8 @@
 
 .header__link {
   text-decoration: none;
+  list-style: none;
+  color: #2f80ed;
 }
 
 .subtitle-font {
@@ -231,6 +233,8 @@
   font-size: 36px;
   font-weight: normal;
   text-decoration: none;
+  list-style: none;
+  color: #2f80ed;
   margin: 0;
 }
 
