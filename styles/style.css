@@ -283,7 +283,7 @@
   padding: 0;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   width: 1100px;
   margin: 0 auto;
   padding: 0;
@@ -300,14 +300,14 @@
   margin-right: 0;
   padding: 0;
 }
-.cell__heading_theme_dark {
+.table__heading_theme_dark {
   margin: 0 0 20px;
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
   padding: 0;
 }
-.cell__text_theme_dark {
+.table__text_theme_dark {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
