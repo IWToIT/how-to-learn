@@ -5,5 +5,5 @@
   position: relative;
   align-items: center;
   background-color: #f2f2f2;
-  z-index: -1;
+  z-index: 0;
 }
