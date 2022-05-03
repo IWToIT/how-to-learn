@@ -1,0 +1,12 @@
+.place__web-container {
+  grid-area: website;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 767px) {
+  .place__web-container {
+    margin: 0 16px;
+  }
+}
