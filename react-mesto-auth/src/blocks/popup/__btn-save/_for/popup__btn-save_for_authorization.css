@@ -1,0 +1,19 @@
+.popup__btn-save_for_authorization {
+  height: 50px;
+  margin-top: 216px;
+  background-color: #fff;
+  color: #000;
+  min-width: 358px;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.popup__btn-save_for_authorization:hover {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+@media screen and (max-width: 767px) {
+  .popup__btn-save_for_authorization {
+    min-width: 260px;
+  }
+}
