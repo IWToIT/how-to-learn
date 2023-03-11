@@ -1,2 +1,3 @@
-Название проектной работы: Научиться учиться.
-Данный проект является примером использования flex-box верстки вместе с уместным дополнением контента в виде: APIYouTube, анимаций, кейфреймов. Задействована система распределения стилей в соответствии с методологией БЭМ.
+Tytuł pracy projektowej: Naucz się uczyć.
+Ten projekt jest przykładem wykorzystania układu flexbox wraz z odpowiednim dodatkiem treści w postaci: apiyoutube, animacji, ramek do kluczy. 
+Zaangażowany jest system dystrybucji stylów zgodnie z metodologią bem.
